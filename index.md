@@ -6,12 +6,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.css" >
         <style>
-         body {
-             width: 100%;
-             position: absolute;
-             background:"imagens/img2.png";
-         }
-    </style>
+    
+  </style>
     </head>
     <body background:"imagens/img2.png">
        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
