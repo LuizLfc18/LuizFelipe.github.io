@@ -9,7 +9,7 @@
          body {
              width: 100%;
              position: absolute;
-             background:gray;
+             background:"imagens/img2.png";
          }
     </style>
     </head>
