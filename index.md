@@ -20,7 +20,7 @@
     <div class="carousel-item active">
       <img src="imagens/img1.jpg" class="d-block w-100" alt="...">
     </div>
-    <div class="carousel-item active">
+    <div class="carousel-item">
       <img src="imagens/img2.png" class="d-block w-100" alt="...">
     </div>
     
