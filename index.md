@@ -4,12 +4,17 @@
         <meta charset="UTF-8">
         <title>Series</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-    
-</head>
-
-<body>
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <link rel="stylesheet" href="css/bootstrap.css" >
+        <style>
+         body {
+             width: 100%;
+             position: absolute;
+             background:gray;
+         }
+    </style>
+    </head>
+    <body>
+       <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
     <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -36,6 +41,3 @@
   </a>
 </div>
 </body>
-</head>
-
-</html>
